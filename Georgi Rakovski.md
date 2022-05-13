@@ -1,8 +1,7 @@
-# Read Me Template
+# Georgi Rakovski
 
-![Project Image](project-image-url)
+<img src="https://urbanscans.com/wp-content/uploads/2022/04/Georgi-Rakovski-new-1.jpg" alt="Model image" width="300" height="300" title="Georgi Rakovski">
 
-> This is a ReadMe template to help save you time and effort.
 ---
 
 ### Table of Contents
