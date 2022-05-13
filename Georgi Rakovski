@@ -1,27 +1,85 @@
-# Georgi Rakovski 3d model
+# Read Me Template
 
-![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
-![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
-![GitHub Release Date](https://img.shields.io/github/release-date/marlinfirmware/marlin.svg)
-[![Build Status](https://github.com/MarlinFirmware/Marlin/workflows/CI/badge.svg?branch=bugfix-2.0.x)](https://github.com/MarlinFirmware/Marlin/actions)
+![Project Image](project-image-url)
 
-<img align="right" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
+> This is a ReadMe template to help save you time and effort.
+---
 
-Additional information can be found at the [UrbanScans website](https://urbanscans.com/).
+### Table of Contents
+You're sections headers will be used to reference location of destination.
 
-## Marlin 2.1
+- [Description](#description)
+- [How To Use](#how-to-use)
+- [References](#references)
+- [License](#license)
+- [Author Info](#author-info)
 
-Marlin 2.0 takes this popular RepRap firmware to the next level by adding support for much faster 32-bit and ARM-based boards while improving support for 8-bit AVR boards. Read about Marlin's decision to use a "Hardware Abstraction Layer" below.
+---
 
-Download earlier versions of Marlin on the [Releases page](https://github.com/MarlinFirmware/Marlin/releases).
+## Description
 
-## Example Configurations
+Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
 
-Before building Marlin you'll need to configure it for your specific hardware. Your vendor should have already provided source code with configurations for the installed firmware, but if you ever decide to upgrade you'll need updated configuration files. Marlin users have contributed dozens of tested example configurations to get you started. Visit the [MarlinFirmware/Configurations](https://github.com/MarlinFirmware/Configurations) repository to find the right configuration for your hardware.
+#### Technologies
 
-## Building Marlin 2.0
+- Technology 1
+- Technology 2
 
-To build Marlin 2.0 you'll need [Arduino IDE 1.8.8 or newer](https://www.arduino.cc/en/main/software) or [PlatformIO](http://docs.platformio.org/en/latest/ide.html#platformio-ide). Detailed build and install instructions are posted at:
+[Back To The Top](#read-me-template)
 
-  - [Installing Marlin (Arduino)](http://marlinfw.org/docs/basics/install_arduino.html)
-  - [Installing Marlin (VSCode)](http://marlinfw.org/docs/basics/install_platformio_vscode.html).
+---
+
+## How To Use
+
+#### Installation
+
+
+
+#### API Reference
+
+```html
+    <p>dummy code</p>
+```
+[Back To The Top](#read-me-template)
+
+---
+
+## References
+[Back To The Top](#read-me-template)
+
+---
+
+## License
+
+MIT License
+
+Copyright (c) [2017] [James Q Quick]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+[Back To The Top](#read-me-template)
+
+---
+
+## Author Info
+
+- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
+- Website - [James Q Quick](https://jamesqquick.com)
+
+[Back To The Top](#read-me-template)
