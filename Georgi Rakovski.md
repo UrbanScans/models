@@ -4,11 +4,10 @@
 
 ---
 
-File|Version|Date|Size
-  --------|---|---|-------
-  [3D model](https://www.arduino.cc/)|1.0|01.05.2021|67mb
-  [Point cloud](http://www.microchip.com/wwwproducts/en/AT90USB1286)|1.0|01.05.2021|20mb
-  [Photos](https://www.arduino.cc/en/Guide/ArduinoDue)|1.0|01.05.2021|30mb
+Version|Date|-|-|-
+  --------|---|---|---|-------
+  1.0|1.05.2021|[3D model](https://www.arduino.cc/)|[Point cloud](http://www.microchip.com/wwwproducts/en/AT90USB1286)|[Photos](https://www.arduino.cc/en/Guide/ArduinoDue)
+ 
 
 ---
 
@@ -27,12 +26,13 @@ Bust-monument of Georgi S. Rakovski, Borisova Gradina Park - reserve of the gard
 
 ## 3D scan metadata
 
+v1.0
 - Author: Krassimir Daskalov
 - Year: 2021
 - Method: Photogrammetry
 - Equipment: Canon EOS 750D + Canon EF50mm f / 1.8 STM
 - Pictures: 183
-- Polygns: 700,000
+- Polygons: 700,000
 
 ---
 
