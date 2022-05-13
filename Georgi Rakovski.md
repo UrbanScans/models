@@ -63,7 +63,9 @@ SOFTWARE.
 
 ---
 
-## Author Info
+## About
 
-- Website - [Krasi Daskalov](https://krasidaskalov.com)
+Official website of the project: [UrbanScans](https://urbanscans.com/).
+
+Initiated by [Krasi Daskalov](https://krasidaskalov.com)
 
